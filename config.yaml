@@ -1,4 +1,4 @@
 article_path: ../vits-articles # 抓取文件所在路径
 article_slicing_length: 200 # 文章切片大小：字段
 default_output_path: outputs # 默认音频的输出路径
-device_type: cuda # 推理模式，cpu：使用cpu推理；cuda：使用gpu推理
+device_type: cpu # 推理模式，cpu：使用cpu推理；cuda：使用gpu推理
