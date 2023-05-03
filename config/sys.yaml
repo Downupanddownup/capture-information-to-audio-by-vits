@@ -1,0 +1,27 @@
+article_path: ../articles
+clear_output_path: true
+default_audio_deal_with_after_convert: mergeAudio
+default_audio_format: mp3
+default_text_deal_with_before_convert: useXieYin
+fetch_interval: 2
+filter_article_characters_number: 300
+hparams_file: ./model/config.json
+model_path: ./model/G_953000.pth
+save_mp3: false
+selected_article_plugins:
+- huXiuShouYe
+speak_content_format: 标题：{title}，作者：{author}，日期：{publish_date}，朗读：{role}，{content}
+speak_convert_mode: random
+speaker_candidates:
+- 妮露
+- 心海
+- 神里绫华
+- 爱莉希雅
+- 甘雨
+- 布洛妮娅
+- 凝光
+- 宵宫
+- 雷电将军
+- 刻晴
+temp_dir: temp
+tooth_sound_weakening: false

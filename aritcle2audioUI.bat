@@ -1,0 +1,1 @@
+C:\Users\io2o\.conda\envs\VoiceprintRecognition-Pytorch\python app.py

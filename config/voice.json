@@ -1,0 +1,130 @@
+[
+  {
+    "role": "妮露",
+    "language": 0,
+    "speaker_id": 144,
+    "noise_scale": 0.1,
+    "noise_scale_w": 0.5,
+    "length_scale": 1.2
+  },
+  {
+    "role": "布洛妮娅",
+    "language": 0,
+    "speaker_id": 190,
+    "noise_scale": 0.1,
+    "noise_scale_w": 0.5,
+    "length_scale": 1.2
+  },
+  {
+    "role": "次生银翼",
+    "language": 0,
+    "speaker_id": 191,
+    "noise_scale": 0.1,
+    "noise_scale_w": 0.5,
+    "length_scale": 1.2
+  },
+  {
+    "role": "夜阑",
+    "language": 0,
+    "speaker_id": 135,
+    "noise_scale": 0.1,
+    "noise_scale_w": 0.3,
+    "length_scale": 1.4
+  },
+  {
+    "role": "凝光",
+    "language": 0,
+    "speaker_id": 102,
+    "noise_scale": 0.1,
+    "noise_scale_w": 0.3,
+    "length_scale": 1.1
+  },
+  {
+    "role": "心海",
+    "language": 0,
+    "speaker_id": 127,
+    "noise_scale": 0.1,
+    "noise_scale_w": 0.4,
+    "length_scale": 1.4
+  },
+  {
+    "role": "神里绫华",
+    "language": 0,
+    "speaker_id": 87,
+    "noise_scale": 0.1,
+    "noise_scale_w": 0.5,
+    "length_scale": 1.2
+  },
+  {
+    "role": "派蒙",
+    "language": 0,
+    "speaker_id": 551,
+    "noise_scale": 0.1,
+    "noise_scale_w": 0.688,
+    "length_scale": 0.9
+  },
+  {
+    "role": "可莉",
+    "language": 0,
+    "speaker_id": 103,
+    "noise_scale": 0.1,
+    "noise_scale_w": 0.5,
+    "length_scale": 1.4
+  },
+  {
+    "role": "爱莉希雅",
+    "language": 0,
+    "speaker_id": 226,
+    "noise_scale": 0.1,
+    "noise_scale_w": 0.5,
+    "length_scale": 1.2
+  },
+  {
+    "role": "胡桃",
+    "language": 0,
+    "speaker_id": 119,
+    "noise_scale": 0.1,
+    "noise_scale_w": 0.5,
+    "length_scale": 1.3
+  },
+  {
+    "role": "申鹤",
+    "language": 0,
+    "speaker_id": 132,
+    "noise_scale": 0.1,
+    "noise_scale_w": 0.6,
+    "length_scale": 1.3
+  },
+  {
+    "role": "宵宫",
+    "language": 0,
+    "speaker_id": 122,
+    "noise_scale": 0.1,
+    "noise_scale_w": 0.5,
+    "length_scale": 1.2
+  },
+  {
+    "role": "甘雨",
+    "language": 0,
+    "speaker_id": 111,
+    "noise_scale": 0.1,
+    "noise_scale_w": 0.555,
+    "length_scale": 1.3
+  },
+  {
+    "role": "刻晴",
+    "language": 0,
+    "speaker_id": 115,
+    "noise_scale": 0.1,
+    "noise_scale_w": 0.5,
+    "length_scale": 1.2
+  },
+  {
+    "role": "雷电将军",
+    "language": 0,
+    "speaker_id": 125,
+    "noise_scale": 0.1,
+    "noise_scale_w": 0.1,
+    "length_scale": 1.3
+  }
+]
