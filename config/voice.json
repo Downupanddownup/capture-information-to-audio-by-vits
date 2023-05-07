@@ -52,7 +52,7 @@
     "language": 0,
     "speaker_id": 87,
     "noise_scale": 0.1,
-    "noise_scale_w": 0.5,
+    "noise_scale_w": 0.6,
     "length_scale": 1.2
   },
   {
