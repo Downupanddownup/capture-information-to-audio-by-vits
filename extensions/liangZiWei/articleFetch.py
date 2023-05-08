@@ -30,7 +30,8 @@ def plugin_param_list():
 def fetch_article(article_id, article, article_list, param_values):
     print(f'量子位接收到的参数：{param_values}')
     print(f'开始抓取文章{article_id}')
-    article_url = "https://www.qbitai.com/" + article_id + ".html"
+
+    article_url = "https://www.qbitai.com/" + article_id.replace('-', '/') + ".html"
     response = requests.get(article_url, headers=_get_header())
     soup = BeautifulSoup(response.content, 'html.parser')
 
@@ -94,7 +95,7 @@ def fetch_article_list():
     ids = []
 
     for article_id in matches:
-        ids.append({"id": article_id})
+        ids.append({"id": article_id.replace('/', '-')})
 
     print(f'量子位中已经抓取到的文章列表：{ids}')
 

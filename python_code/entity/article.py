@@ -49,9 +49,6 @@ class Article:
         self.is_last_time = is_last_time
         self.size = size
 
-    def _filter_article_id(self):
-        return None if self.article_id is None else self.article_id.replace('/', '')
-
     def is_equals(self, Article_other):
         return self.plugins_name == Article_other.plugins_name and self.article_id == Article_other.article_id
 
