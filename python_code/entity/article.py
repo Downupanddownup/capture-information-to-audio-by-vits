@@ -49,6 +49,9 @@ class Article:
         self.is_last_time = is_last_time
         self.size = size
 
+    def _filter_article_id(self):
+        return None if self.article_id is None else self.article_id.replace('/', '')
+
     def is_equals(self, Article_other):
         return self.plugins_name == Article_other.plugins_name and self.article_id == Article_other.article_id
 
@@ -107,7 +110,7 @@ class RoleVoice:
     def __init__(self, Role_1, Article_1):
         self.Role_1 = Role_1
         self.Article_1 = Article_1
-        self.wav_file_path = None # wav音频文件存储地址
+        self.wav_file_path = None  # wav音频文件存储地址
 
     def get_base_name(self):
         return self.Article_1.title + "-" + self.Role_1.get_specker_info()

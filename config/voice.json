@@ -126,5 +126,85 @@
     "noise_scale": 0.1,
     "noise_scale_w": 0.1,
     "length_scale": 1.3
+  },
+  {
+    "role": "卡莲",
+    "language": 0,
+    "speaker_id": 185,
+    "noise_scale": 0.1,
+    "noise_scale_w": 0.5,
+    "length_scale": 1.2
+  },
+  {
+    "role": "第六夜想曲",
+    "language": 0,
+    "speaker_id": 186,
+    "noise_scale": 0.1,
+    "noise_scale_w": 0.3,
+    "length_scale": 1.2
+  },
+  {
+    "role": "薪炎之律者",
+    "language": 0,
+    "speaker_id": 230,
+    "noise_scale": 0.1,
+    "noise_scale_w": 0.5,
+    "length_scale": 1.2
+  },
+  {
+    "role": "迪卢克",
+    "language": 0,
+    "speaker_id": 94,
+    "noise_scale": 0.1,
+    "noise_scale_w": 0.5,
+    "length_scale": 1.3
+  },
+  {
+    "role": "钟离",
+    "language": 0,
+    "speaker_id": 104,
+    "noise_scale": 0.1,
+    "noise_scale_w": 0.5,
+    "length_scale": 1.2
+  },
+  {
+    "role": "八重神子",
+    "language": 0,
+    "speaker_id": 133,
+    "noise_scale": 0.1,
+    "noise_scale_w": 0.5,
+    "length_scale": 1.2
+  },
+  {
+    "role": "阿波尼亚",
+    "language": 0,
+    "speaker_id": 239,
+    "noise_scale": 0.1,
+    "noise_scale_w": 0.5,
+    "length_scale": 1.2
+  },
+  {
+    "role": "幽兰黛尔",
+    "language": 0,
+    "speaker_id": 201,
+    "noise_scale": 0.1,
+    "noise_scale_w": 0.6,
+    "length_scale": 1.3
+  },
+  {
+    "role": "纳西妲",
+    "language": 0,
+    "speaker_id": 142,
+    "noise_scale": 0.1,
+    "noise_scale_w": 0.5,
+    "length_scale": 1.2
+  },
+  {
+    "role": "凯亚",
+    "language": 0,
+    "speaker_id": 93,
+    "noise_scale": 0.1,
+    "noise_scale_w": 0.4,
+    "length_scale": 1.4
   }
 ]
